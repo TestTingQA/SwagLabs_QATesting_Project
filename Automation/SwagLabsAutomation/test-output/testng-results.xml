@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-27T14:35:54 EDT" name="Default suite" finished-at="2026-06-27T14:36:43 EDT" duration-ms="48506">
+    <groups>
+    </groups>
+    <test started-at="2026-06-27T14:35:54 EDT" name="Default test" finished-at="2026-06-27T14:36:43 EDT" duration-ms="48506">
+      <class name="com.qa.tests.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:35:55 EDT" name="setup" finished-at="2026-06-27T14:36:06 EDT" duration-ms="11146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckoutPageOverviewdetails()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:06 EDT" name="CheckoutPageOverviewdetails" finished-at="2026-06-27T14:36:14 EDT" duration-ms="7999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutPageOverviewdetails -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:14 EDT" name="CloseBrowser" finished-at="2026-06-27T14:36:14 EDT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:14 EDT" name="setup" finished-at="2026-06-27T14:36:21 EDT" duration-ms="7537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPersonalDetails_InValidDetails()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:21 EDT" name="verifyPersonalDetails_InValidDetails" finished-at="2026-06-27T14:36:28 EDT" duration-ms="7070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPersonalDetails_InValidDetails -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:28 EDT" name="CloseBrowser" finished-at="2026-06-27T14:36:29 EDT" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:29 EDT" name="setup" finished-at="2026-06-27T14:36:36 EDT" duration-ms="7603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPersonalDetails_ValidDetails()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:36 EDT" name="verifyPersonalDetails_ValidDetails" finished-at="2026-06-27T14:36:43 EDT" duration-ms="6778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPersonalDetails_ValidDetails -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.qa.tests.CheckoutTest@351d00c0]" started-at="2026-06-27T14:36:43 EDT" name="CloseBrowser" finished-at="2026-06-27T14:36:43 EDT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.qa.tests.CheckoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
